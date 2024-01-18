@@ -1,1 +1,1 @@
-# Didrik-IT.github.io
+# didrik-it.github.io
